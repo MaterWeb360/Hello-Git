@@ -1,2 +1,1 @@
-print ("hello git")
-print ("curso git")
+print ("New hello git")
